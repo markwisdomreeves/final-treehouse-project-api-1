@@ -1,0 +1,32 @@
+{ "users": [ { "firstName": "Joe", "lastName": "Smith",
+  "emailAddress": "joe@smith.com", "password": "joepassword" }, {
+  "firstName": "Sally", "lastName": "Jones", "emailAddress":
+  "sally@jones.com", "password": "sallypassword" } ],
+  
+    "courses": [
+      {
+        "userId": 1,
+        "title": "My First Date",
+        "description": "You might think the most important word your date could use to describe your first date would be “romantic,” but usually, it’s actually “fun.” If she had fun, she’ll want to see you again. So, keep her entertained by using one of these fun date ideas. She’ll be ready for date number two before you even finish the first date!",
+        "estimatedTime": "2 hours",
+        "materialsNeeded": "Love, Trust, Respect, Care"
+      },
+  
+      {
+        "userId": 2,
+        "title": "Marriage Ceremony",
+        "description": "Wedding Ceremony Samples. Choosing the right ceremony can enhance any Wedding. All these ceremonies can be customized to add your own special touch, story, and situation. Add or remove any religious references to reflect your own personal beliefs. If you want a ceremony style that not listed here, your officiant will be glad to design it for you. These can be altered for vow renewals.",
+        "estimatedTime": "3 hours",
+        "materialsNeeded": "Marry, Best Partner, Search for better home."
+      },
+  
+      {
+        "userId": 2,
+        "title": "Your First day in college",
+        "description": "It’s your first day of college — the first day of the next several years of your student career. Knowing exactly what to expect on your first day of college will help you to be prepared, to calm those nerves, have fun, and a successful first day! Here’s what to expect on your big first day.",
+        "estimatedTime": "6 hours",
+        "materialsNeeded": "bit stressful, confuse"
+      }
+  
+    ]
+  }
