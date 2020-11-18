@@ -1,1 +1,1 @@
-# final-treehouse-project-api-1
+# THIS IS THE CREATE COURSE PROJECT API
